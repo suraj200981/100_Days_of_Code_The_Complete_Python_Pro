@@ -1,0 +1,1 @@
+myFavouriteNumber = 3.1415
